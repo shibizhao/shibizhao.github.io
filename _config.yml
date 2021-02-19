@@ -85,9 +85,10 @@ author:
   bio              : "Ph.D Student major in Computer Architecture"
   location         : "Beijing, China"
   employer         : "Peking University"
-  pubmed           : ""
-  googlescholar    : ""
-  email            : "https://dblp.org/pid/258/0232.html"
+  pubmed           : 
+  googlescholar    : 
+  email            : "shi_bizhao@pku.edu.cn"
+  dblp             : "https://dblp.org/pid/258/0232.html"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
