@@ -18,6 +18,12 @@ author_profile: true
 
 ### 2023
 
+[C8] Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. "BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call", to appear in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+
+[C7] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "WideSA: A High Array Utilization Mapping Scheme for Uniform Recurrences on the Versal ACAP Architecture", to appear in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+
+[C6] **Bizhao Shi**, Jieran Zhang, and Guojie Luo. "F-TFM: Accelerating Total Focusing Method for Ultrasonic Array Imaging on FPGA", in the Proceedings of 2023 International Conference on Field-Programmable Technology (**FPT**), Dec, 2023.
+
 [C5] Xiong Wang, Jun Huang, **Bizhao Shi**, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang, and Chenren Xu. "RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT", in the Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (**MobiCom**), Jul, 2023.
 
 [C4] Sicheng Li, Chen Bai, Xuechao Wei, Bizhao Shi, Yen-Kuang Chen, and Yuan Xie. "2022 ICCAD CAD Contest Problem C: Microarchitecture Design Space Exploration", in the Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), Oct, 2022.
