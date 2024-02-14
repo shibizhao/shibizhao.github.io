@@ -6,7 +6,6 @@ author_profile: true
 
 ## Journal Publications  
 
-### 2023
 
 [J3] Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. "PowerSyn: A Logic Synthesis Framework with Early Power Optimization", in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Early Access.
 
@@ -16,7 +15,10 @@ author_profile: true
 
 ## Conference Publications  
 
-### 2023
+
+[C10] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "G^2PM: Performance Modeling for ACAP Architecture with Dual-Tiered Graph Representation Learning", to appear in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
+
+[C9] **Bizhao Shi**, Tuo Dai, Jiaxi Zhang, Xuechao Wei, and Guojie Luo. "PT-Map: Efficient Program Transformation Optimization for CGRA Mapping", to appear in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
 
 [C8] Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. "BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call", to appear in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
 
