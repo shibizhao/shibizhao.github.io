@@ -15,7 +15,7 @@ redirect_from:
 
 ## Work Experience
 
-* Apr 2022 - Present: Research Intern
+* Apr 2022 - Feb 2024: Research Intern
   * Computing Technology Lab, DAMO Academy, Alibaba Group
   * Project: Compilation of the Dataflow Architecture
   * Mentors: Dr. Yuanwei Fang, Dr. Xuechao Wei, Dr. Hongzhong Zheng, and Dr. Yuan Xie
