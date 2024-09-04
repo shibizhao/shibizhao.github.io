@@ -18,21 +18,21 @@ bridization", in the Nature Communications (**NatComm**), 2024.
 
 ## Conference Publications  
 
-[C12] Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. "MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization," to appera in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
+[C13] Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. "MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization," to appera in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024. [[Acceptance Email](https://shibizhao.github.io/files/ICCD24_email.pdf)]
 
-[C11] **Bizhao Shi**, Tuo Dai, Sunan Zou, Ximing Wei, and Guojie Luo. "ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA," in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), Aug, 2024.
+[C12] **Bizhao Shi**, Tuo Dai, Sunan Zou, Ximing Wei, and Guojie Luo. "ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA," in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), Aug, 2024.
 
-[C10] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "G^2PM: Performance Modeling for ACAP Architecture with Dual-Tiered Graph Representation Learning", in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
+[C11] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "G^2PM: Performance Modeling for ACAP Architecture with Dual-Tiered Graph Representation Learning", in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
 
-[C9] **Bizhao Shi**, Tuo Dai, Jiaxi Zhang, Xuechao Wei, and Guojie Luo. "PT-Map: Efficient Program Transformation Optimization for CGRA Mapping", in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
+[C10] **Bizhao Shi**, Tuo Dai, Jiaxi Zhang, Xuechao Wei, and Guojie Luo. "PT-Map: Efficient Program Transformation Optimization for CGRA Mapping", in the Proceedings of 2024 Design Automation Conference (**DAC**), Jun, 2024.
 
-[C8] Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. "BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call", in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+[C9] Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. "BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call", in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
 
-[C7] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "WideSA: A High Array Utilization Mapping Scheme for Uniform Recurrences on the Versal ACAP Architecture", in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+[C8] Tuo Dai, **Bizhao Shi**, and Guojie Luo. "WideSA: A High Array Utilization Mapping Scheme for Uniform Recurrences on the Versal ACAP Architecture", in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
 
-[C6] **Bizhao Shi**, Jieran Zhang, and Guojie Luo. "F-TFM: Accelerating Total Focusing Method for Ultrasonic Array Imaging on FPGA", in the Proceedings of 2023 International Conference on Field-Programmable Technology (**FPT**), Dec, 2023.
+[C7] **Bizhao Shi**, Jieran Zhang, and Guojie Luo. "F-TFM: Accelerating Total Focusing Method for Ultrasonic Array Imaging on FPGA", in the Proceedings of 2023 International Conference on Field-Programmable Technology (**FPT**), Dec, 2023.
 
-[C5] Xiong Wang, Jun Huang, **Bizhao Shi**, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang, and Chenren Xu. "RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT", in the Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (**MobiCom**), Jul, 2023.
+[C6] Xiong Wang, Jun Huang, **Bizhao Shi**, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang, and Chenren Xu. "RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT", in the Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (**MobiCom**), Jul, 2023.
 
 [C5] Tuo Dai, Bizhao Shi, and Guojie Luo. "Weave: Abstraction for Accelerator Integration of Generated Modules", in International Symposium on Field Programmable Gate Arrays (**FPGA**), Feb, 2023.
 
