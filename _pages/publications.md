@@ -18,7 +18,7 @@ bridization", in the Nature Communications (**NatComm**), 2024.
 
 ## Conference Publications  
 
-[C13] Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. "MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization," to appera in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024. [[Acceptance Email](https://shibizhao.github.io/files/ICCD24_email.pdf)]
+[C13] Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. "MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization," to appera in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024. [[Acceptance Email](https://shibizhao.github.io/files/iccd24-musa.pdf)]
 
 [C12] **Bizhao Shi**, Tuo Dai, Sunan Zou, Ximing Wei, and Guojie Luo. "ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA," in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), Aug, 2024.
 
