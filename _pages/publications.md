@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications  
 
-[J4] Yujie Wu*, Bizhao Shi* (* denotes the equal contributions), Zhong Zheng, Hanle Zheng, Fangwen Yu, Xue
+[J4] Yujie Wu#, Bizhao Shi# (# denotes the equal contributions), Zhong Zheng, Hanle Zheng, Fangwen Yu, Xue
 Liu, Guojie Luo, and Lei Deng. "Adaptive Spatiotemporal Neural Networks through Complementary Hy-
 bridization", in the Nature Communications (**NatComm**), 2024.
 
