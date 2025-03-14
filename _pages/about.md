@@ -86,11 +86,14 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🏆 Academic Awards
-- Nature Communications Editors' Highlights in the applied physics and mathematics track [here](https://www.nature.com/collections/hjhbgijcei).
-- **2nd** place 
+# 🏆 Honors and Awards
 
-# 🎖 Honors
+## Academic awards
+- Nature Communications Editors' Highlights in the applied physics and mathematics track [here](https://www.nature.com/collections/hjhbgijcei).
+- **2nd** place of 2021 IEEE CEDA EDAthon.
+- **3nd** place of 2019 IBM OpenCAPI Heterogenous Computing Contest.
+
+## Honors and scholarships
 - **2024.12** - Qingyun Shi Outstanding Paper Award (**石青云院士优秀论文奖**), Peking University
 - **2024.12** - Xiaomi Top Ten Academic Awards (**小米杯“学术十杰”称号**), Peking University
 - **2024.10** - Young Elite Scientist Sponsorship (YESS) Doctoral Special Program (**中国科协青年人才托举工程博士生专项**), China Association for Science and Technology (CAST) 
