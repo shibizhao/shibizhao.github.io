@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bizhao Shi"
-description              : "Bizhao Shi's Personal Website"
+description              : "Bizhao Shi's Personal Page"
 repository               : "shibizhao/shibizhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bizhao Shi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Candidate in Computer Science at Peking University"
   location         : "Beijing, China"
   employer         :
