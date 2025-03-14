@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Bizhao Shi"
 description              : "Bizhao Shi's Personal Website"
-repository               : "shibizhao.github.io"
+repository               : "shibizhao/shibizhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
