@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a forth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems. And I also have broad research interests including LLM, MLSys, and neuromorphic computing. I have published more than 15 peer-reviewed papers with total google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a forth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems. And I also have broad research interests including LLM, MLSys, and neuromorphic computing. I have published more than 15 peer-reviewed papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I obtained my B.S. in Computer Science from the School of EECS at Peking University in 2021. During the undergraduate studies, I mainly worked on the design of FPGA accelerators using High-level Synthesis (HLS). And I also worked as a research intern at Computing Technology Lab, DAMO Academy, Alibaba Group, where I had the priviledge of working with Dr. Yen-kuang Chen and Dr. Yuan Xie. 
 
@@ -34,11 +34,11 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 ## Journals
 
-\[J4\] [Adaptive Spatiotemporal Neural Networks through Complementary Hybridization](https://www.nature.com/articles/s41467-024-51641-x), Yujie Wu#, **Bizhao Shi**# (# denotes Equal Contributions), Zhong Zheng, Hanle Zheng, Fangwen Yu, Xue Liu, Guojie Luo, and Lei Deng. in the Nature Communications (**NatComm**), 2024.
+\[J4\] [Adaptive Spatiotemporal Neural Networks through Complementary Hybridization](https://www.nature.com/articles/s41467-024-51641-x), Yujie Wu#, **Bizhao Shi**# (# denotes Equal Contributions), Zhong Zheng, Hanle Zheng, Fangwen Yu, Xue Liu, Guojie Luo, and Lei Deng. in the Nature Communications (**NatComm**), Vol: 15: Issue: 1, August 2024, pp. 7355.
 
-\[J3\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Early Access.
+\[J3\] [Weave: Abstraction and Integration Flow for Accelerators of Generated Modules](https://ieeexplore.ieee.org/document/10288134), Tuo Dai, **Bizhao Shi**, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43: Issue: 3, March 2024, pp. 854-867.
 
-\[J2\] [Weave: Abstraction and Integration Flow for Accelerators of Generated Modules](https://ieeexplore.ieee.org/document/10288134), Tuo Dai, **Bizhao Shi**, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Early Access.
+\[J2\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), Sunan Zou, Jiaxi Zhang, **Bizhao Shi**, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43: Issue: 1, Jan 2024, pp. 203-216.
 
 \[J1\] [Efficient Super-Resolution System With Block-Wise Hybridization and Quantized Winograd on FPGA](https://ieeexplore.ieee.org/document/10049639), **Bizhao Shi**, Jiaxi Zhang, Zhuolun He, Xuechao Wei, Sicheng Li, Guojie Luo, Hongzhong Zheng, and Yuan Xie. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 11, November 2023, pp. 3910-3924.
 
@@ -60,7 +60,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 \[C6\] [RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT](https://dl.acm.org/doi/10.1145/3570361.3592513), Xiong Wang, Jun Huang, **Bizhao Shi**, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang, and Chenren Xu. in the Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (**MobiCom**), Jul, 2023.
 
-\[C5\] [Weave: Abstraction for Accelerator Integration of Generated Modules](https://dl.acm.org/doi/abs/10.1145/3543622.3573176), Tuo Dai, Bizhao Shi, and Guojie Luo. in International Symposium on Field Programmable Gate Arrays (**FPGA**), Feb, 2023.
+\[C5\] [Weave: Abstraction for Accelerator Integration of Generated Modules](https://dl.acm.org/doi/abs/10.1145/3543622.3573176), Tuo Dai, Bizhao Shi, and Guojie Luo. in International Symposium on Field Programmable Gate Arrays (**FPGA**), Feb, 2023. (Poster)
 
 \[C4\] [2022 ICCAD CAD Contest Problem C: Microarchitecture Design Space Exploration](https://ieeexplore.ieee.org/document/10069474), Sicheng Li, Chen Bai, Xuechao Wei, **Bizhao Shi**, Yen-Kuang Chen, and Yuan Xie. in the Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), Oct, 2022.
 
@@ -86,7 +86,11 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏆 Academic Awards
+- Nature Communications Editors' Highlights in the applied physics and mathematics track [here](https://www.nature.com/collections/hjhbgijcei).
+- **2nd** place 
+
+# 🎖 Honors
 - **2024.12** - Qingyun Shi Outstanding Paper Award (**石青云院士优秀论文奖**), Peking University
 - **2024.12** - Xiaomi Top Ten Academic Awards (**小米杯“学术十杰”称号**), Peking University
 - **2024.10** - Young Elite Scientist Sponsorship (YESS) Doctoral Special Program (**中国科协青年人才托举工程博士生专项**), China Association for Science and Technology (CAST) 
@@ -101,6 +105,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 - **2020.10** - The Second Class Scholarship (**北京大学二等奖学金**), Peking University
 - **2020.10** - Honors for Merit Student (**三好学生**), Peking University
 - **2018.10** - The May 4th Scholarship (**五四奖学金**), Peking University
+
 
 # 📖 Educations
 - *2021.09 - Present*, PhD Student, School of Computer Science, Peking University. 
