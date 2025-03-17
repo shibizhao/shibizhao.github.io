@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a forth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems. And I also have broad research interests including LLM, MLSys, and neuromorphic computing. I have published 17 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
+I am a fourth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems. And I also have broad research interests including LLM, MLSys, and neuromorphic computing. I have published 17 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
 
 I obtained my B.S. in Computer Science from the School of EECS at Peking University in 2021. During the undergraduate studies, I mainly worked on the design of FPGA accelerators using High-level Synthesis (HLS). And I also worked as a research intern at Computing Technology Lab, DAMO Academy, Alibaba Group, where I had the priviledge of working with Dr. Yen-kuang Chen and Dr. Yuan Xie. 
 
@@ -62,7 +62,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 \[C6\] [RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT](https://dl.acm.org/doi/10.1145/3570361.3592513), Xiong Wang, Jun Huang, **Bizhao Shi**, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang, and Chenren Xu. in the Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (**MobiCom**), Jul, 2023.
 
-\[C5\] [Weave: Abstraction for Accelerator Integration of Generated Modules](https://dl.acm.org/doi/abs/10.1145/3543622.3573176), Tuo Dai, Bizhao Shi, and Guojie Luo. in International Symposium on Field Programmable Gate Arrays (**FPGA**), Feb, 2023. (Poster)
+\[C5\] [Weave: Abstraction for Accelerator Integration of Generated Modules](https://dl.acm.org/doi/abs/10.1145/3543622.3573176), Tuo Dai, **Bizhao Shi**, and Guojie Luo. in International Symposium on Field Programmable Gate Arrays (**FPGA**), Feb, 2023. (Poster)
 
 \[C4\] [2022 ICCAD CAD Contest Problem C: Microarchitecture Design Space Exploration](https://ieeexplore.ieee.org/document/10069474), Sicheng Li, Chen Bai, Xuechao Wei, **Bizhao Shi**, Yen-Kuang Chen, and Yuan Xie. in the Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), Oct, 2022.
 
@@ -122,3 +122,8 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 # 💻 Internships
 - *2020.07 - 2024.02*, Computing Technology Lab, Alibaba DAMO Academy, Beijing, China.
+
+# 📚 Services
+- Official Reviewers: IEEE JETCAS
+- Artifact Reviewers: FPGA 2023
+- Teaching Assistant: Introduction to Parallel and Distributed Computing, 2020 Spring & 2022 Spring
