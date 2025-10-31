@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems. And I also have broad research interests including LLM, MLSys, and neuromorphic computing. I have published 17 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
+I am a fifth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on the software/hardware co-design for the intelligent computing systems. And I also have broad research interests including MLSys, AI compiler, and reconfigurable computing. I have published 19 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
+
+<!-- 
+I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems.  -->
 
 I obtained my B.S. in Computer Science from the School of EECS at Peking University in 2021. During the undergraduate studies, I mainly worked on the design of FPGA accelerators using High-level Synthesis (HLS). And I also worked as a research intern at Computing Technology Lab, DAMO Academy, Alibaba Group, where I had the priviledge of working with Dr. Yen-kuang Chen and Dr. Yuan Xie. 
 
@@ -27,6 +30,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our paper *TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators* has been accepted by **43rd IEEE International Conference on Computer Design (ICCD-25)**.
 - *2024.08*: &nbsp;🎉🎉 Our paper *Adaptive Spatiotemporal Neural Networks through Complementary Hybridization* has been accepted by **Nature Communications** and selected as Editors' Highlights. Codes and Datasets are available [here](https://github.com/shibizhao/hstnn-demo).
 - *2024.05*: &nbsp;🎉🎉 Our paper *ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA* has been accepted by **30th International European Conference on Parallel and Distributed Computing (EuroPAR-24)**.
 - *2024.02*: &nbsp;🎉🎉 Our paper *PT-Map: Efficient Program Transformation Optimization for CGRA* has been accepted by **61st Design Automation Conference (DAC-24)**.
@@ -45,8 +49,11 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 \[J1\] [Efficient Super-Resolution System With Block-Wise Hybridization and Quantized Winograd on FPGA](https://ieeexplore.ieee.org/document/10049639), **Bizhao Shi**, Jiaxi Zhang, Zhuolun He, Xuechao Wei, Sicheng Li, Guojie Luo, Hongzhong Zheng, and Yuan Xie. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 11, November 2023, pp. 3910-3924.
 
 ## Conferences
+\[C15\] [TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators]() Jieran Zhang#, **Bizhao Shi**# (# denotes the equal contributions), and Guojie Luo. to appear in the Proceedings of the 43rd International Conference on Computer Design (**ICCD**), Nov, 2025.
 
-\[C13\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. to appear in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
+\[C14\] [TACPlace: Ultrafast Thermal-Aware Chiplet Placement with Feasibility Seeking]() Shan Yu, Haiyang Liu, Xinming Wei, **Bizhao Shi**, and Guojie Luo. in the Proceedings of the 35th Great Lakes Symposium on VLSI (\textbf{GLSVLSI}), June, 2025.
+
+\[C13\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
 
 \[C12\] [ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA](https://link.springer.com/chapter/10.1007/978-3-031-69577-3_5), **Bizhao Shi**, Tuo Dai, Sunan Zou, Ximing Wei, and Guojie Luo. in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), Aug, 2024.
 
@@ -121,9 +128,10 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 
 # 💻 Internships
+- *2025.05 - Now*, Network Technology Lab, 2012 Lab, Huawei Inc., Beijing, China.
 - *2020.07 - 2024.02*, Computing Technology Lab, Alibaba DAMO Academy, Beijing, China.
 
 # 📚 Services
-- Official Reviewers: IEEE JETCAS
+- Official Reviewers: AAAI 2026, ACM TODAES, IEEE JETCAS
 - Artifact Reviewers: FPGA 2023
 - Teaching Assistant: Introduction to Parallel and Distributed Computing, 2020 Spring & 2022 Spring
