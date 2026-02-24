@@ -30,6 +30,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 
 # 🔥 News
+- *2026.02*：&nbsp;🎉🎉 Our paper *OpenSUN: An Open Platform for Exploring Scale-Up Network Systems* has been accepted by **63rd Design Automation Conference (DAC-26)**.
 - *2025.08*: &nbsp;🎉🎉 Our paper *TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators* has been accepted by **43rd IEEE International Conference on Computer Design (ICCD-25)**.
 - *2024.08*: &nbsp;🎉🎉 Our paper *Adaptive Spatiotemporal Neural Networks through Complementary Hybridization* has been accepted by **Nature Communications** and selected as Editors' Highlights. Codes and Datasets are available [here](https://github.com/shibizhao/hstnn-demo).
 - *2024.05*: &nbsp;🎉🎉 Our paper *ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA* has been accepted by **30th International European Conference on Parallel and Distributed Computing (EuroPAR-24)**.
@@ -49,9 +50,12 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 \[J1\] [Efficient Super-Resolution System With Block-Wise Hybridization and Quantized Winograd on FPGA](https://ieeexplore.ieee.org/document/10049639), **Bizhao Shi**, Jiaxi Zhang, Zhuolun He, Xuechao Wei, Sicheng Li, Guojie Luo, Hongzhong Zheng, and Yuan Xie. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 11, November 2023, pp. 3910-3924.
 
 ## Conferences
-\[C15\] [TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators]() Jieran Zhang#, **Bizhao Shi**# (# denotes the equal contributions), and Guojie Luo. to appear in the Proceedings of the 43rd International Conference on Computer Design (**ICCD**), Nov, 2025.
 
-\[C14\] [TACPlace: Ultrafast Thermal-Aware Chiplet Placement with Feasibility Seeking]() Shan Yu, Haiyang Liu, Xinming Wei, **Bizhao Shi**, and Guojie Luo. in the Proceedings of the 35th Great Lakes Symposium on VLSI (\textbf{GLSVLSI}), June, 2025.
+\[C16\] [OpenSUN: An Open Platform for Exploring Scale-Up Network Systems](), Yiqi Chen, **Bizhao Shi**, Tao Qian, Ying Liu, Xiaotong Sun, Mingtao Han, Cheng Zhang, Guojie Luo, Guangyu Sun, and Zhe Zhou. to appear in the Proceedings of the 63rd Design Automation Conference (**DAC**), Jul, 2026.
+
+\[C15\] [TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators](https://ieeexplore.ieee.org/abstract/document/11310998/), Jieran Zhang#, **Bizhao Shi**# (# denotes the equal contributions), and Guojie Luo. in the Proceedings of the 43rd International Conference on Computer Design (**ICCD**), Nov, 2025.
+
+\[C14\] [TACPlace: Ultrafast Thermal-Aware Chiplet Placement with Feasibility Seeking](https://dl.acm.org/doi/10.1145/3716368.3735185), Shan Yu, Haiyang Liu, Xinming Wei, **Bizhao Shi**, and Guojie Luo. in the Proceedings of the 35th Great Lakes Symposium on VLSI (**GLSVLSI**), June, 2025.
 
 \[C13\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), Sunan Zou, **Bizhao Shi**, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
 
