@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on the software/hardware co-design for the intelligent computing systems. And I also have broad research interests including MLSys, AI compiler, and reconfigurable computing. I have published 19 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
+I am a fifth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on the software/hardware co-design for the intelligent computing systems. And I also have broad research interests including MLSys, AI compiler, and reconfigurable computing. I have published 20 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
 
 <!-- 
 I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems.  -->
@@ -30,7 +30,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 
 # 🔥 News
-- *2026.02*：&nbsp;🎉🎉 Our paper *OpenSUN: An Open Platform for Exploring Scale-Up Network Systems* has been accepted by **63rd Design Automation Conference (DAC-26)**.
+- *2026.02*: &nbsp;🎉🎉 Our paper *OpenSUN: An Open Platform for Exploring Scale-Up Network Systems* has been accepted by **63rd Design Automation Conference (DAC-26)**.
 - *2025.08*: &nbsp;🎉🎉 Our paper *TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators* has been accepted by **43rd IEEE International Conference on Computer Design (ICCD-25)**.
 - *2024.08*: &nbsp;🎉🎉 Our paper *Adaptive Spatiotemporal Neural Networks through Complementary Hybridization* has been accepted by **Nature Communications** and selected as Editors' Highlights. Codes and Datasets are available [here](https://github.com/shibizhao/hstnn-demo).
 - *2024.05*: &nbsp;🎉🎉 Our paper *ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA* has been accepted by **30th International European Conference on Parallel and Distributed Computing (EuroPAR-24)**.
