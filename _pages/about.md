@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. Guojie Luo at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research area is Computer Architecture and I mainly focus on the software/hardware co-design for the intelligent computing systems. And I also have broad research interests including MLSys, AI compiler, and reconfigurable computing. I have published 20 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
+I am currently an LLM Infrastructure Engineer at Xiaohongshu (RedNote), where I focus on building and optimizing large-scale training systems for foundation models. I received my Ph.D. in Computer Science from Peking University in Jul. 2026, advised by Prof. Guojie Luo at the PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My doctoral research centered on computer architecture, with a strong focus on software/hardware co-design for intelligent computing systems. And I also have broad research interests including chip architecture, scale-up system, and AI compiler. I have published more than 20 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=Yz6SL4wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href='https://raw.githubusercontent.com/shibizhao/shibizhao.github.io/main/files/CV.pdf'>\[Resume\]</a>.
 
 <!-- 
 I mainly focus on reconfigurable computing (e.g. FPGA, CGRA, and etc.). I hope to combine the advanced compilation and synthesis techniques with the reconfigurable architectures to build the next generation of efficient domain-specific computing systems.  -->
@@ -30,6 +30,7 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers has been accepeted by **44th International Conference on Computer Design (ICCD 2026)**.
 - *2026.02*: &nbsp;🎉🎉 Our paper *OpenSUN: An Open Platform for Exploring Scale-Up Network Systems* has been accepted by **63rd Design Automation Conference (DAC-26)**.
 - *2025.08*: &nbsp;🎉🎉 Our paper *TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators* has been accepted by **43rd IEEE International Conference on Computer Design (ICCD-25)**.
 - *2024.08*: &nbsp;🎉🎉 Our paper *Adaptive Spatiotemporal Neural Networks through Complementary Hybridization* has been accepted by **Nature Communications** and selected as Editors' Highlights. Codes and Datasets are available [here](https://github.com/shibizhao/hstnn-demo).
@@ -51,7 +52,11 @@ I obtained my B.S. in Computer Science from the School of EECS at Peking Univers
 
 ## Conferences
 
-\[C16\] [OpenSUN: An Open Platform for Exploring Scale-Up Network Systems](), Yiqi Chen, **Bizhao Shi**, Tao Qian, Ying Liu, Xiaotong Sun, Mingtao Han, Cheng Zhang, Guojie Luo, Guangyu Sun, and Zhe Zhou. to appear in the Proceedings of the 63rd Design Automation Conference (**DAC**), Jul, 2026.
+\[C18\] [Enabling Efficient Multi-Head Latent Attention on Spatial Accelerators](), Yuxin Yang, Jieran Zhang, **Bizhao Shi**, and Guojie Luo. to appear in the Proceedings of the 44th International Conference on Computer Design (**ICCD 2026**), Nov, 2026.
+
+\[C17\] [DynFlow: A Decentralized, Reconfigurable Dataflow Abstraction Layer on Tenstorrent](), Jieran Zhang, Yihan Long, Yuxin Yang, **Bizhao Shi**, and Guojie Luo. to appear in the Proceedings of the 44th International Conference on Computer Design (**ICCD 2026**), Nov, 2026.
+
+\[C16\] [OpenSUN: An Open Platform for Exploring Scale-Up Network Systems](), Yiqi Chen, **Bizhao Shi**, Tao Qian, Ying Liu, Xiaotong Sun, Mingtao Han, Cheng Zhang, Guojie Luo, Guangyu Sun, and Zhe Zhou. in the Proceedings of the 63rd Design Automation Conference (**DAC**), Jul, 2026.
 
 \[C15\] [TensTFM: Efficient Total Focusing Method for Ultrasonic Array Imaging on Dataflow Accelerators](https://ieeexplore.ieee.org/abstract/document/11310998/), Jieran Zhang#, **Bizhao Shi**# (# denotes the equal contributions), and Guojie Luo. in the Proceedings of the 43rd International Conference on Computer Design (**ICCD**), Nov, 2025.
 
